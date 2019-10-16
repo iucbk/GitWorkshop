@@ -23,7 +23,7 @@ Abdullah Furkan Özbek ~ [LinkedIn 🔗](https://www.linkedin.com/in/afozbek/) /
 
 ## Ek Dosyalar
 - [Slaytlar](./Slaytlar.pdf)
-- [Afiş](./Afiş.png)
+- [Afiş](./Afiş.jpeg)
 
 ## Katkıda Bulunanlar
 - Slayt Hazırlama: Asmaa Mirkhan ~ [LinkedIn 🔗](https://www.linkedin.com/in/asmaa-mirkhan/) / [GitHub 🔗](https://github.com/asmaamirkhan)
