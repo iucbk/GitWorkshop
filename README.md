@@ -7,3 +7,4 @@
 - Pull
 - Branch
 - Fork
+- Pull Requests
