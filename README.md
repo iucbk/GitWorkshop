@@ -1,3 +1,6 @@
-# deneme
+# Git Workshop
 
-bu diğer bir deneme
+**Öğrenilenler**;
+- Clone yapma işlemi
+- Commit Atma
+- Push Yapma
