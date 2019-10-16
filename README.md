@@ -6,3 +6,4 @@
 - Push Yapma
 - Pull
 - Branch
+- Pull Requests
